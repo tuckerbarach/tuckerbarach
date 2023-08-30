@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1>
+  <img src="name.svg" width="800" height="400" alt="Tucker Barach" style="--background: red;" />
+</h1>
 
-<!--
-**tuckerbarach/tuckerbarach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul style="list-style: none; padding: 0; margin:0; text-align: center">
+  <li>
+    <h2>
+      Front-end developer and (former but still sometimes) designer.
+    </h2>
+  </li>
+  <li>
+    <h2>
+      Interested in performance, privacy, accessibility, and sustainability.
+    </h2>
+  </li>
+  <li>
+    <h2>
+      Developer at <a href="https://www.lensrentals.com/">Lensrentals</a>.
+    </h2>
+  </li>
+  <li>
+    <h2>
+      Currently working in <a href="https://svelte.dev/"><img src='https://github.com/ryanfiller/ryanfiller/blob/main/svelte-logo.svg' alt='Svelte' /></a> & <a href="https://reactjs.org/"><img src='https://github.com/ryanfiller/ryanfiller/blob/main/react-logo.svg' alt='React' /></a>
+    </h2>
+  </li>
+  <li>
+    <h2>
+      Check out my <a href="https://ryanfiller.com?link=github">website.</a>
+    </h2>
+  </li>
+  <li>
+    <small>
+      I <em>definitely</em> stole the SVG idea from <a href="https://github.com/sindresorhus/css-in-readme-like-wat">Sindre Sorhus</a>
+    </small>
+  </li>
+</ul>
