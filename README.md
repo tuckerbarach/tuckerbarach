@@ -3,5 +3,5 @@
 </h1>
 
 <h2>
-    Computer Science & Statistics Major at Amherst College
+    Computer Science & Statistics Major at Amherst College with a concentration in Mathematics
 </h2>
