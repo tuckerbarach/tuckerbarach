@@ -3,5 +3,5 @@
 </h1>
 
 <h2>
-    Computer Science Student at Amherst College
+    Computer Science & Statistics Major at Amherst College
 </h2>
